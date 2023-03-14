@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash19-88&label=Profile%20views&color=0e75b6&style=flat" alt="ash19-88" /> </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E5F7&center=true&width=435&lines=Full+Stack+Web+Developer;Eager+to+learn+new+technologies;Networking;Teamwork" alt="Typing SVG" /></a>
+
 - 🔭 I’m currently working on [Simple Service](https://simpleservice.vercel.app/)
 
 - 🌱 I’m currently learning **Tailwind, Angular and MongoDb**
