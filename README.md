@@ -58,8 +58,7 @@
 <a href="https://linkedin.com/in/ash19-88" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -68,15 +67,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ash19-88&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ash19-88&&style=flat-square" align="center" />
-</div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash19-88&" alt="ash19-88" /></div>
 
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ash19-88&show_icons=true&locale=en" alt="ash19-88" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash19-88&" alt="ash19-88" /></p>
 
 ---
 
