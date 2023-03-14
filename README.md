@@ -1,5 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-
 <h1 align="center">Hi 👋, I'm Ayelén Llampa</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
@@ -7,11 +5,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E5F7&center=true&width=435&lines=Full+Stack+Web+Developer;I+♥+teamwork;Eager+to+learn+new+technologies;I+♥+networking" alt="Typing SVG" /></a>
 
+- 💥 I’m a creative, proactive and well organized person, I love teamwork and teaching.
+
+- 🔭 I’m very commited to my work and I’m always trying to do my best to succeed. According to my peers, I have leadership qualities, so I’m good on group management.
+
 - 🔭 I’m currently working on [Simple Service](https://simpleservice.vercel.app/)
 
 - 🌱 I’m currently learning Tailwind CSS, Angular and MongoDB
 
-- ❓ Ask me about anything related to React and related technologies
+- ❓ I’m interested in furthering my career as a Front-End and Back-End web developer, learning new technologies, frameworks and so on.
 
 - ⚡ Fun fact: I ♥ flexbox and grid
 
