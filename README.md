@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash19-88&label=Profile%20views&color=0e75b6&style=flat" alt="ash19-88" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash19-88" alt="ash19-88" /></a> </p>
-
 - 🔭 I’m currently working on [Simple Service](https://simpleservice.vercel.app/)
 
 - 🌱 I’m currently learning **Tailwind, Angular and MongoDb**
