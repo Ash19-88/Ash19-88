@@ -7,7 +7,7 @@
 
 - 💥 I’m a creative, proactive and well organized person, I love teamwork and teaching.
 
-- 🔭 I’m very commited to my work and I’m always trying to do my best to succeed. According to my peers, I have leadership qualities, so I’m good on group management.
+- 🔭 I’m very commited to my work and I’m always trying to do my best to succeed. According to my peers, as I was a teacher as well, I have leadership qualities, which also reflects on my good group management.
 
 - 🔭 I’m currently working on [Simple Service](https://simpleservice.vercel.app/)
 
