@@ -16,7 +16,7 @@
 
 - 🔭 I’m very commited to my work and I’m always trying to do my best to succeed. According to my peers, as I was a teacher as well, I have leadership qualities, which also reflects on my good group management.
 
-- 🔭 I’m currently working on [Simple Service](https://simpleservice-lemon.vercel.app/)
+- 🔭 I’m currently working on [Simple Service](https://simpleservice-six.vercel.app/)
 
 - 🌱 I’m currently learning Tailwind CSS, Angular and MongoDB
 
