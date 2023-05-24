@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E5F7&center=true&width=435&lines=Full+Stack+Web+Developer;I+♥+teamwork;Eager+to+learn+new+technologies;I+♥+networking" alt="Typing SVG" />
   </a>
   <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/></p>
