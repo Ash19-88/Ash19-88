@@ -16,11 +16,9 @@
 
 - 🔭 I’m very commited to my work and I’m always trying to do my best to succeed. According to my peers, as I was a teacher as well, I have leadership qualities, which also reflects on my good group management.
 
-- 🔭 I’m currently working on [Simple Service](https://simpleservice-six.vercel.app/)
+- 🌱 I’m currently learning Figma.
 
-- 🌱 I’m currently learning Tailwind CSS, Angular and MongoDB
-
-- ❓ I’m interested in furthering my career as a Front-End and Back-End web developer, learning new technologies, frameworks and so on.
+- ❓ I’m interested in furthering my career as a Front-End web developer, learning new technologies, frameworks and so on.
 
 - 💥 Take a look at my [Portfolio](https://ashtech-solutions-portfolio.netlify.app/)
 
