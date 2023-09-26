@@ -73,13 +73,6 @@
 
 <br/>
 
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ash19-88&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash19-88&" alt="ash19-88" /></div>
-
 <br />
 
 
