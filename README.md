@@ -7,22 +7,22 @@
 </p>
 
 <a href="https://git.io/typing-svg" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E5F7&center=true&width=435&lines=Full+Stack+Web+Developer;I+♥+teamwork;Eager+to+learn+new+technologies;I+♥+networking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E5F7&center=true&width=435&lines=Full+Stack+developer;Furthering+frontend+development+skills;I+♥+teamwork;Eager+to+learn+new+technologies;Challenging+everyday+to+be+better+😎" alt="Typing SVG" />
   </a>
   <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/></p>
 
 ## About me 
 - 💥 I’m a creative, proactive and well organized person, I love teamwork and teaching.
 
-- 🔭 I’m very commited to my work and I’m always trying to do my best to succeed. According to my peers, as I was a teacher as well, I have leadership qualities, which also reflects on my good group management.
+- 🔭 I'm all about giving my best in everything I do. My peers have often pointed out my leadership skills, especially during my time as a teacher. It's these skills that really shine when it comes to managing a group effectively
 
-- 🌱 I’m currently learning Figma.
+- 🌱 I’m currently learning JAVA and Next JS.
 
-- ❓ I’m interested in furthering my career as a Front-End web developer, learning new technologies, frameworks and so on.
+- ❓ I'm driven to elevate my career as a Front-End web developer by mastering new technologies and frameworks, and contributing to impactful projects within the No Country team. I aim to deliver exceptional results and create innovative solutions that drive the team's success.
 
 - 💥 Take a look at my [Portfolio](https://ashtech-solutions-portfolio.netlify.app/)
 
-- ⚡ Fun fact: I ♥ flexbox and grid
+- ⚡ Did you know? I have a special fondness for flexbox and grid, which I use to create sleek and efficient layouts.
 
 <br/>
 
