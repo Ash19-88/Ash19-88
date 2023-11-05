@@ -7,7 +7,7 @@
 </p>
 
 <a href="https://git.io/typing-svg" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E5F7&center=true&width=435&lines=Full+Stack+developer;Furthering+frontend+development+skills;I+♥+teamwork;Eager+to+learn+new+technologies;Challenging+everyday+to+be+better+😎" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29E5F7&center=true&width=435&lines=Full+Stack+developer;Furthering+frontend<br/>+development+skills;I+♥+teamwork;Eager+to+learn+new+technologies;Challenging+everyday+to+be+better+😎" alt="Typing SVG" />
   </a>
   <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/></p>
 
