@@ -17,7 +17,7 @@
 
 - 🔭 I'm all about giving my best in everything I do. My peers have often pointed out my leadership skills, especially during my time as a teacher. It's these skills that really shine when it comes to managing a group effectively
 
-- 🌱 I’m currently learning JAVA and Next JS.
+- 🌱 I’m currently learning React Native.
 
 - ❓ I'm driven to elevate my career as a Front-End web developer by mastering new technologies and frameworks, and contributing to impactful projects within the No Country team. I aim to deliver exceptional results and create innovative solutions that drive the team's success.
 
